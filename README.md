@@ -39,7 +39,7 @@ Use pull requests.
 
 * **John Matzen** - *Initial work* - [jmatzen](https://github.com/jmatzen)
 * L S - *Some CSS, HTML, JS* - [SkillAllHumans](https://github.com/SkillAllHumans)
-* lynda_ - *c191 data*
+* lynda_ - *c191 data* - [lynda_](https://github.com/lfost42)
 
 
 ## License
